@@ -1,4 +1,4 @@
-<h3 align="center">一款可运行的基于Linux 实现的HTTP服务器</h3>
+<h3 align="center">一款可运行的基于C++ 实现的HTTP服务器</h3>
 
 
 
